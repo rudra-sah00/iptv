@@ -1,0 +1,4504 @@
+{
+  "channels": [
+    {
+      "name": "ABC USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-51.php"
+    },
+    {
+      "name": "AHC (AMERICAN HEROES CHANNEL)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-206.php"
+    },
+    {
+      "name": "ANTENNA TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-283.php"
+    },
+    {
+      "name": "A&AMP;E USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-302.php"
+    },
+    {
+      "name": "AMC USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-303.php"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-304.php"
+    },
+    {
+      "name": "ASTRO SUPERSPORT 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-123.php"
+    },
+    {
+      "name": "ASTRO SUPERSPORT 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-124.php"
+    },
+    {
+      "name": "ASTRO SUPERSPORT 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-125.php"
+    },
+    {
+      "name": "ASTRO SUPERSPORT 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-126.php"
+    },
+    {
+      "name": "ARENA SPORT 1 PREMIUM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-134.php"
+    },
+    {
+      "name": "ARENA SPORT 2 PREMIUM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-135.php"
+    },
+    {
+      "name": "ARENA SPORT 3 PREMIUM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-139.php"
+    },
+    {
+      "name": "ARENA SPORT 1 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-429.php"
+    },
+    {
+      "name": "ARENA SPORT 2 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-430.php"
+    },
+    {
+      "name": "ARENA SPORT 3 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-431.php"
+    },
+    {
+      "name": "ARENA SPORT 4 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-581.php"
+    },
+    {
+      "name": "ARENA SPORT 1 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-432.php"
+    },
+    {
+      "name": "ARENA SPORT 2 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-433.php"
+    },
+    {
+      "name": "ARENA SPORT 3 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-434.php"
+    },
+    {
+      "name": "ARENA SPORT 4 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-580.php"
+    },
+    {
+      "name": "ALKASS ONE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-781.php"
+    },
+    {
+      "name": "ALKASS TWO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-782.php"
+    },
+    {
+      "name": "ALKASS THREE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-783.php"
+    },
+    {
+      "name": "ALKASS FOUR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-784.php"
+    },
+    {
+      "name": "ARENA SPORT 1 BIH",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-579.php"
+    },
+    {
+      "name": "ABU DHABI SPORTS 1 UAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-600.php"
+    },
+    {
+      "name": "ABU DHABI SPORTS 2 UAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-601.php"
+    },
+    {
+      "name": "ABU DHABI SPORTS 1 PREMIUM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-609.php"
+    },
+    {
+      "name": "ABU DHABI SPORTS 2 PREMIUM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-610.php"
+    },
+    {
+      "name": "ASTRO CRICKET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-370.php"
+    },
+    {
+      "name": "ANTENA 3 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-531.php"
+    },
+    {
+      "name": "ARENA SPORTS TENIS SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-612.php"
+    },
+    {
+      "name": "ACC NETWORK USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-664.php"
+    },
+    {
+      "name": "ADULT SWIM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-295.php"
+    },
+    {
+      "name": "A SPORT PK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-269.php"
+    },
+    {
+      "name": "AXN MOVIES PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-717.php"
+    },
+    {
+      "name": "ARTE DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-725.php"
+    },
+    {
+      "name": "AXS TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-742.php"
+    },
+    {
+      "name": "ABC NY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-766.php"
+    },
+    {
+      "name": "AZTECA 7 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-844.php"
+    },
+    {
+      "name": "ALTITUDE SPORTS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-923.php"
+    },
+    {
+      "name": "AZTECA UNO MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-934.php"
+    },
+    {
+      "name": "ARENA SPORT 5 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-940.php"
+    },
+    {
+      "name": "ARENA SPORT 6 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-941.php"
+    },
+    {
+      "name": "ARENA SPORT 7 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-942.php"
+    },
+    {
+      "name": "ARENA SPORT 8 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-943.php"
+    },
+    {
+      "name": "ARENA SPORT 9 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-944.php"
+    },
+    {
+      "name": "ARENA SPORT 10 SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-945.php"
+    },
+    {
+      "name": "ARTE FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-958.php"
+    },
+    {
+      "name": "AUTOMOTO LA CHAÎNE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-961.php"
+    },
+    {
+      "name": "ATV TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1000.php"
+    },
+    {
+      "name": "A SPOR TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1011.php"
+    },
+    {
+      "name": "BEIN SPORTS MENA ENGLISH 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-61.php"
+    },
+    {
+      "name": "BEIN SPORTS MENA ENGLISH 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-90.php"
+    },
+    {
+      "name": "BEIN SPORTS 1 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-91.php"
+    },
+    {
+      "name": "BEIN SPORTS 2 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-92.php"
+    },
+    {
+      "name": "BEIN SPORTS 3 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-93.php"
+    },
+    {
+      "name": "BEIN SPORTS 4 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-94.php"
+    },
+    {
+      "name": "BEIN SPORTS 5 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-95.php"
+    },
+    {
+      "name": "BEIN SPORTS 6 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-96.php"
+    },
+    {
+      "name": "BEIN SPORTS 7 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-97.php"
+    },
+    {
+      "name": "BEIN SPORTS 8 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-98.php"
+    },
+    {
+      "name": "BEIN SPORTS 9 ARABIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-99.php"
+    },
+    {
+      "name": "BEIN SPORTS XTRA 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-100.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 4 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-494.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 5 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-495.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 6 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-496.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 7 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-497.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 8 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-498.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 9 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-499.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX 10 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-500.php"
+    },
+    {
+      "name": "BEIN SPORTS 1 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-116.php"
+    },
+    {
+      "name": "BEIN SPORTS 2 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-117.php"
+    },
+    {
+      "name": "BEIN SPORTS 3 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-118.php"
+    },
+    {
+      "name": "BEIN SPORTS 1 TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-62.php"
+    },
+    {
+      "name": "BEIN SPORTS 2 TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-63.php"
+    },
+    {
+      "name": "BEIN SPORTS 3 TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-64.php"
+    },
+    {
+      "name": "BEIN SPORTS 4 TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-67.php"
+    },
+    {
+      "name": "BEIN SPORTS HD QATAR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-578.php"
+    },
+    {
+      "name": "BEIN SPORTS USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-425.php"
+    },
+    {
+      "name": "BEIN SPORTS EN ESPA単OL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-372.php"
+    },
+    {
+      "name": "BEIN SPORTS AUSTRALIA 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-491.php"
+    },
+    {
+      "name": "BEIN SPORTS AUSTRALIA 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-492.php"
+    },
+    {
+      "name": "BEIN SPORTS AUSTRALIA 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-493.php"
+    },
+    {
+      "name": "BARCA TV SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-522.php"
+    },
+    {
+      "name": "BENFICA TV PT",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-380.php"
+    },
+    {
+      "name": "BOOMERANG",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-648.php"
+    },
+    {
+      "name": "BNT 1 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-476.php"
+    },
+    {
+      "name": "BNT 2 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-477.php"
+    },
+    {
+      "name": "BNT 3 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-478.php"
+    },
+    {
+      "name": "BR FERNSEHEN DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-737.php"
+    },
+    {
+      "name": "BTV BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-479.php"
+    },
+    {
+      "name": "BTV ACTION BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-481.php"
+    },
+    {
+      "name": "BTV LADY BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-484.php"
+    },
+    {
+      "name": "BBC AMERICA (BBCA)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-305.php"
+    },
+    {
+      "name": "BET USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-306.php"
+    },
+    {
+      "name": "BRAVO USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-307.php"
+    },
+    {
+      "name": "BBC NEWS CHANNEL HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-349.php"
+    },
+    {
+      "name": "BBC ONE UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-356.php"
+    },
+    {
+      "name": "BBC TWO UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-357.php"
+    },
+    {
+      "name": "BBC THREE UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-358.php"
+    },
+    {
+      "name": "BBC FOUR UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-359.php"
+    },
+    {
+      "name": "BIG TEN NETWORK (BTN USA)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-397.php"
+    },
+    {
+      "name": "BEIN SPORTS 1 MALAYSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-712.php"
+    },
+    {
+      "name": "BEIN SPORTS 2 MALAYSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-713.php"
+    },
+    {
+      "name": "BEIN SPORTS 3 MALAYSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-714.php"
+    },
+    {
+      "name": "BFM TV FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-957.php"
+    },
+    {
+      "name": "BEIN SPORTS 5 TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1010.php"
+    },
+    {
+      "name": "BANDSPORTS BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-275.php"
+    },
+    {
+      "name": "CANAL+ MOTOGP FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-271.php"
+    },
+    {
+      "name": "CANAL+ FORMULA 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-273.php"
+    },
+    {
+      "name": "CW PIX 11 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-280.php"
+    },
+    {
+      "name": "CBS USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-52.php"
+    },
+    {
+      "name": "COURT TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-281.php"
+    },
+    {
+      "name": "CW USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-300.php"
+    },
+    {
+      "name": "CNBC USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-309.php"
+    },
+    {
+      "name": "COMEDY CENTRAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-310.php"
+    },
+    {
+      "name": "CARTOON NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-339.php"
+    },
+    {
+      "name": "CNN USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-345.php"
+    },
+    {
+      "name": "CINEMAX USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-374.php"
+    },
+    {
+      "name": "CUATRO SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-535.php"
+    },
+    {
+      "name": "CHANNEL 4 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-354.php"
+    },
+    {
+      "name": "CHANNEL 5 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-355.php"
+    },
+    {
+      "name": "CBS SPORTS NETWORK (CBSSN)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-308.php"
+    },
+    {
+      "name": "CANAL+ FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-121.php"
+    },
+    {
+      "name": "CANAL+ SPORT FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-122.php"
+    },
+    {
+      "name": "CANAL+ FOOT FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-463.php"
+    },
+    {
+      "name": "CANAL+ SPORT360",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-464.php"
+    },
+    {
+      "name": "CANAL 11 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-540.php"
+    },
+    {
+      "name": "CANAL+ SPORT POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-48.php"
+    },
+    {
+      "name": "CANAL+ SPORT 2 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-73.php"
+    },
+    {
+      "name": "CANAL+ SPORT 3 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-259.php"
+    },
+    {
+      "name": "CANAL+ SPORT 5 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-75.php"
+    },
+    {
+      "name": "CANAL+ PREMIUM POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-566.php"
+    },
+    {
+      "name": "CANAL+ FAMILY POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-567.php"
+    },
+    {
+      "name": "CANAL+ SERIALE POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-570.php"
+    },
+    {
+      "name": "CANAL+ SPORT 1 AFRIQUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-486.php"
+    },
+    {
+      "name": "CANAL+ SPORT 2 AFRIQUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-487.php"
+    },
+    {
+      "name": "CANAL+ SPORT 3 AFRIQUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-488.php"
+    },
+    {
+      "name": "CANAL+ SPORT 4 AFRIQUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-489.php"
+    },
+    {
+      "name": "CANAL+ SPORT 5 AFRIQUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-490.php"
+    },
+    {
+      "name": "CANAL 9 DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-805.php"
+    },
+    {
+      "name": "COMBATE BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-89.php"
+    },
+    {
+      "name": "COSMOTE SPORT 1 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-622.php"
+    },
+    {
+      "name": "COSMOTE SPORT 2 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-623.php"
+    },
+    {
+      "name": "COSMOTE SPORT 3 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-624.php"
+    },
+    {
+      "name": "COSMOTE SPORT 4 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-625.php"
+    },
+    {
+      "name": "COSMOTE SPORT 5 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-626.php"
+    },
+    {
+      "name": "COSMOTE SPORT 6 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-627.php"
+    },
+    {
+      "name": "COSMOTE SPORT 7 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-628.php"
+    },
+    {
+      "name": "COSMOTE SPORT 8 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-629.php"
+    },
+    {
+      "name": "COSMOTE SPORT 9 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-630.php"
+    },
+    {
+      "name": "CHANNEL 9 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-546.php"
+    },
+    {
+      "name": "CHANNEL 10 ISRAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-547.php"
+    },
+    {
+      "name": "CHANNEL 11 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-548.php"
+    },
+    {
+      "name": "CHANNEL 12 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-549.php"
+    },
+    {
+      "name": "CHANNEL 13 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-551.php"
+    },
+    {
+      "name": "CHANNEL 14 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-552.php"
+    },
+    {
+      "name": "C MORE FIRST SWEDEN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-812.php"
+    },
+    {
+      "name": "C MORE HITS SWEDEN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-813.php"
+    },
+    {
+      "name": "C MORE SERIES SWEDEN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-814.php"
+    },
+    {
+      "name": "COZI TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-748.php"
+    },
+    {
+      "name": "CMT USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-647.php"
+    },
+    {
+      "name": "CTV CANADA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-602.php"
+    },
+    {
+      "name": "CTV 2 CANADA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-838.php"
+    },
+    {
+      "name": "CRIME+ INVESTIGATION USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-669.php"
+    },
+    {
+      "name": "COMET USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-696.php"
+    },
+    {
+      "name": "COOKING CHANNEL USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-697.php"
+    },
+    {
+      "name": "CLEO TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-715.php"
+    },
+    {
+      "name": "C SPAN 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-750.php"
+    },
+    {
+      "name": "CBSNY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-767.php"
+    },
+    {
+      "name": "CHICAGO SPORTS NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-776.php"
+    },
+    {
+      "name": "CITYTV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-831.php"
+    },
+    {
+      "name": "CBC CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-832.php"
+    },
+    {
+      "name": "CLARO SPORTS MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-933.php"
+    },
+    {
+      "name": "CANAL5 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-936.php"
+    },
+    {
+      "name": "C8 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-956.php"
+    },
+    {
+      "name": "CNEWS FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-964.php"
+    },
+    {
+      "name": "CANAL+ SPORT CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1020.php"
+    },
+    {
+      "name": "CT SPORT CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1033.php"
+    },
+    {
+      "name": "NOVA HD CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1034.php"
+    },
+    {
+      "name": "CT1 HD CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1035.php"
+    },
+    {
+      "name": "CT2 HD CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1036.php"
+    },
+    {
+      "name": "TN LIVE CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1037.php"
+    },
+    {
+      "name": "ONEPLAY SPORT 4 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1038.php"
+    },
+    {
+      "name": "ONEPLAY MD2 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1039.php"
+    },
+    {
+      "name": "ONEPLAY MD3 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1040.php"
+    },
+    {
+      "name": "ONEPLAY MD4 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1041.php"
+    },
+    {
+      "name": "SPORT 1 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1042.php"
+    },
+    {
+      "name": "CANAL+ SPORT 2 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1043.php"
+    },
+    {
+      "name": "CANAL+ SPORT 3 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1044.php"
+    },
+    {
+      "name": "CANAL+ SPORT 4 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1045.php"
+    },
+    {
+      "name": "CANAL+ SPORT 5 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1046.php"
+    },
+    {
+      "name": "CANAL+ SPORT 6 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1047.php"
+    },
+    {
+      "name": "CANAL+ SPORT 7 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1048.php"
+    },
+    {
+      "name": "CANAL+ SPORT 8 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1049.php"
+    },
+    {
+      "name": "JOJ SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1050.php"
+    },
+    {
+      "name": "DAJTO SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1051.php"
+    },
+    {
+      "name": "JOJ ŠPORT SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1052.php"
+    },
+    {
+      "name": "VOYO SPECIAL 1 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1053.php"
+    },
+    {
+      "name": "VOYO SPECIAL 2 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1054.php"
+    },
+    {
+      "name": "VOYO SPECIAL 3 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1055.php"
+    },
+    {
+      "name": "VOYO SPECIAL 4 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1056.php"
+    },
+    {
+      "name": "VOYO SPECIAL 7 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1057.php"
+    },
+    {
+      "name": "VOYO SPECIAL 8 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1058.php"
+    },
+    {
+      "name": "VOYO SPECIAL 9 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1059.php"
+    },
+    {
+      "name": "NOVA SPORT 3 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1060.php"
+    },
+    {
+      "name": "NOVA SPORT 4 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1061.php"
+    },
+    {
+      "name": "NOVA SPORT 5 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1062.php"
+    },
+    {
+      "name": "CANAL+ SPORT SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1063.php"
+    },
+    {
+      "name": "CANAL+ SPORT 2 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1064.php"
+    },
+    {
+      "name": "CANAL+ SPORT 3 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1065.php"
+    },
+    {
+      "name": "CANAL+ SPORT 4 SK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1066.php"
+    },
+    {
+      "name": "CBS SPORTS GOLAZO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-910.php"
+    },
+    {
+      "name": "CMTV PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-790.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 1 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-911.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 2 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-912.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 3 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-913.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 4 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-914.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 5 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-915.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 6 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-916.php"
+    },
+    {
+      "name": "CYTAVISION SPORTS 7 CYPRUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-917.php"
+    },
+    {
+      "name": "DAZN 1 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-230.php"
+    },
+    {
+      "name": "DISCOVERY VELOCITY CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-285.php"
+    },
+    {
+      "name": "DAZN 1 BAR DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-426.php"
+    },
+    {
+      "name": "DAZN 2 BAR DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-427.php"
+    },
+    {
+      "name": "DAZN 1 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-445.php"
+    },
+    {
+      "name": "DAZN 2 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-446.php"
+    },
+    {
+      "name": "DAZN 3 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-447.php"
+    },
+    {
+      "name": "DAZN 4 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-448.php"
+    },
+    {
+      "name": "DAZN F1 ES",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-537.php"
+    },
+    {
+      "name": "DAZN LALIGA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-538.php"
+    },
+    {
+      "name": "DAZN PORTUGAL FIFA MUNDIAL DE CLUBES",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-918.php"
+    },
+    {
+      "name": "DR1 DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-801.php"
+    },
+    {
+      "name": "DR2 DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-802.php"
+    },
+    {
+      "name": "DAZN LIGUE 1 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-960.php"
+    },
+    {
+      "name": "DIGI SPORT 1 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-400.php"
+    },
+    {
+      "name": "DIGI SPORT 2 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-401.php"
+    },
+    {
+      "name": "DIGI SPORT 3 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-402.php"
+    },
+    {
+      "name": "DIGI SPORT 4 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-403.php"
+    },
+    {
+      "name": "DIEMA SPORT BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-465.php"
+    },
+    {
+      "name": "DIEMA SPORT 2 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-466.php"
+    },
+    {
+      "name": "DIEMA SPORT 3 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-467.php"
+    },
+    {
+      "name": "DIEMA BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-482.php"
+    },
+    {
+      "name": "DIEMA FAMILY BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-485.php"
+    },
+    {
+      "name": "DUBAI SPORTS 1 UAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-604.php"
+    },
+    {
+      "name": "DUBAI SPORTS 2 UAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-605.php"
+    },
+    {
+      "name": "DUBAI SPORTS 3 UAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-606.php"
+    },
+    {
+      "name": "DUBAI RACING 2 UAE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-608.php"
+    },
+    {
+      "name": "DSTV MZANSI MAGIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-786.php"
+    },
+    {
+      "name": "DSTV M-NET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-827.php"
+    },
+    {
+      "name": "DSTV KYKNET &AMP; KIE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-828.php"
+    },
+    {
+      "name": "DAZN ZONA ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-877.php"
+    },
+    {
+      "name": "DISCOVERY LIFE CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-311.php"
+    },
+    {
+      "name": "DISNEY CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-312.php"
+    },
+    {
+      "name": "DISCOVERY CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-313.php"
+    },
+    {
+      "name": "DISCOVERY FAMILY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-657.php"
+    },
+    {
+      "name": "DISNEY XD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-314.php"
+    },
+    {
+      "name": "DESTINATION AMERICA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-651.php"
+    },
+    {
+      "name": "DISNEY JR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-652.php"
+    },
+    {
+      "name": "DAVE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-348.php"
+    },
+    {
+      "name": "ESPN USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-44.php"
+    },
+    {
+      "name": "ESPN2 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-45.php"
+    },
+    {
+      "name": "ESPNU USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-316.php"
+    },
+    {
+      "name": "ESPN 1 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-379.php"
+    },
+    {
+      "name": "ESPN 2 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-386.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 1 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-71.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 2 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-72.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 3 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-428.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 1 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-455.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 2 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-456.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 3 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-457.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 4 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-458.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 5 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-459.php"
+    },
+    {
+      "name": "EUROSPORT 1 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-41.php"
+    },
+    {
+      "name": "EUROSPORT 2 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-42.php"
+    },
+    {
+      "name": "EUROSPORT 1 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-57.php"
+    },
+    {
+      "name": "EUROSPORT 2 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-58.php"
+    },
+    {
+      "name": "EUROSPORT 1 SW",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-231.php"
+    },
+    {
+      "name": "EUROSPORT 2 SW",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-232.php"
+    },
+    {
+      "name": "EUROSPORT 1 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-233.php"
+    },
+    {
+      "name": "EUROSPORT 2 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-234.php"
+    },
+    {
+      "name": "EUROSPORT 1 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-524.php"
+    },
+    {
+      "name": "EUROSPORT 2 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-525.php"
+    },
+    {
+      "name": "EUROSPORT 1 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-878.php"
+    },
+    {
+      "name": "EUROSPORT 2 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-879.php"
+    },
+    {
+      "name": "ESPN PREMIUM ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-387.php"
+    },
+    {
+      "name": "ESPN BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-81.php"
+    },
+    {
+      "name": "ESPN2 BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-82.php"
+    },
+    {
+      "name": "ESPN3 BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-83.php"
+    },
+    {
+      "name": "ESPN4 BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-85.php"
+    },
+    {
+      "name": "ESPN ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-149.php"
+    },
+    {
+      "name": "ESPN2 ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-150.php"
+    },
+    {
+      "name": "ESPN DEPORTES",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-375.php"
+    },
+    {
+      "name": "ESPNEWS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-288.php"
+    },
+    {
+      "name": "E! ENTERTAINMENT TELEVISION",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-315.php"
+    },
+    {
+      "name": "E4 CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-363.php"
+    },
+    {
+      "name": "ESPN 3 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-888.php"
+    },
+    {
+      "name": "ERT 1 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-774.php"
+    },
+    {
+      "name": "EUROSPORT 1 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-772.php"
+    },
+    {
+      "name": "EUROSPORT 2 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-773.php"
+    },
+    {
+      "name": "ESPN3 ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-798.php"
+    },
+    {
+      "name": "ESPN 1 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-925.php"
+    },
+    {
+      "name": "ESPN 2 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-926.php"
+    },
+    {
+      "name": "ESPN 3 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-927.php"
+    },
+    {
+      "name": "ESPN 4 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-928.php"
+    },
+    {
+      "name": "FUSE TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-279.php"
+    },
+    {
+      "name": "FOX SPORTS 1 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-39.php"
+    },
+    {
+      "name": "FOX SPORTS 2 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-758.php"
+    },
+    {
+      "name": "FOX SOCCER PLUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-756.php"
+    },
+    {
+      "name": "FOX CRICKET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-369.php"
+    },
+    {
+      "name": "FOX DEPORTES USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-643.php"
+    },
+    {
+      "name": "FOX SPORTS 502 AU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-820.php"
+    },
+    {
+      "name": "FOX SPORTS 503 AU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-821.php"
+    },
+    {
+      "name": "FOX SPORTS 504 AU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-822.php"
+    },
+    {
+      "name": "FOX SPORTS 505 AU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-823.php"
+    },
+    {
+      "name": "FOX SPORTS 506 AU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-824.php"
+    },
+    {
+      "name": "FOX SPORTS 507 AU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-825.php"
+    },
+    {
+      "name": "FOX SPORTS 1 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-929.php"
+    },
+    {
+      "name": "FOX SPORTS 2 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-930.php"
+    },
+    {
+      "name": "FOX SPORTS 3 MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-931.php"
+    },
+    {
+      "name": "FOX SPORTS ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-787.php"
+    },
+    {
+      "name": "FOX SPORTS 2 ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-788.php"
+    },
+    {
+      "name": "FOX SPORTS 3 ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-789.php"
+    },
+    {
+      "name": "FOX SPORTS PREMIUM MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-830.php"
+    },
+    {
+      "name": "FILMBOX PREMIUM POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-568.php"
+    },
+    {
+      "name": "FIGHT NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-757.php"
+    },
+    {
+      "name": "FOX BUSINESS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-297.php"
+    },
+    {
+      "name": "FOX HD BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-483.php"
+    },
+    {
+      "name": "FOX USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-54.php"
+    },
+    {
+      "name": "FX USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-317.php"
+    },
+    {
+      "name": "FXX USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-298.php"
+    },
+    {
+      "name": "FREEFORM",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-301.php"
+    },
+    {
+      "name": "FOX NEWS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-347.php"
+    },
+    {
+      "name": "FX MOVIE CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-381.php"
+    },
+    {
+      "name": "FYI",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-665.php"
+    },
+    {
+      "name": "FILM4 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-688.php"
+    },
+    {
+      "name": "FASHION TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-744.php"
+    },
+    {
+      "name": "FETV - FAMILY ENTERTAINMENT TELEVISION",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-751.php"
+    },
+    {
+      "name": "FOXNY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-768.php"
+    },
+    {
+      "name": "FOX WEATHER CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-775.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK ARIZONA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-890.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK DETROIT",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-891.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK FLORIDA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-892.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK GREAT LAKES",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-893.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK INDIANA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-894.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK KANSAS CITY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-895.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK MIDWEST",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-896.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK NEW ORLEANS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-897.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK NORTH",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-898.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK OHIO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-899.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK OKLAHOMA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-900.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK SOCAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-902.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK SOUTH",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-903.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK SOUTHEAST",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-904.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK SUN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-905.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK WEST",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-906.php"
+    },
+    {
+      "name": "FANDUEL SPORTS NETWORK WISCONSIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-907.php"
+    },
+    {
+      "name": "FRANCE 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-950.php"
+    },
+    {
+      "name": "FRANCE 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-951.php"
+    },
+    {
+      "name": "FRANCE 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-952.php"
+    },
+    {
+      "name": "FRANCE 5",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-953.php"
+    },
+    {
+      "name": "GOL PLAY SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-530.php"
+    },
+    {
+      "name": "GOLF CHANNEL USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-318.php"
+    },
+    {
+      "name": "GAME SHOW NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-319.php"
+    },
+    {
+      "name": "BEIN SPORTS MAX AR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-597.php"
+    },
+    {
+      "name": "GOLD UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-687.php"
+    },
+    {
+      "name": "GREAT AMERICAN FAMILY CHANNEL (GAC)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-699.php"
+    },
+    {
+      "name": "GALAVISI贸N USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-743.php"
+    },
+    {
+      "name": "GRIT CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-752.php"
+    },
+    {
+      "name": "GLOBO SP",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-760.php"
+    },
+    {
+      "name": "GLOBO RIO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-761.php"
+    },
+    {
+      "name": "GLOBAL CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-836.php"
+    },
+    {
+      "name": "THE HALLMARK CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-320.php"
+    },
+    {
+      "name": "HALLMARK MOVIES &AMP; MYSTERIE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-296.php"
+    },
+    {
+      "name": "HEROES &AMP; ICONS (H&AMP;I) USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-282.php"
+    },
+    {
+      "name": "HBO USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-321.php"
+    },
+    {
+      "name": "HBO2 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-689.php"
+    },
+    {
+      "name": "HBO COMEDY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-690.php"
+    },
+    {
+      "name": "HBO FAMILY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-691.php"
+    },
+    {
+      "name": "HBO LATINO USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-692.php"
+    },
+    {
+      "name": "HBO SIGNATURE USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-693.php"
+    },
+    {
+      "name": "HBO ZONE USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-694.php"
+    },
+    {
+      "name": "HBO POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-569.php"
+    },
+    {
+      "name": "HISTORY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-322.php"
+    },
+    {
+      "name": "HEADLINE NEWS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-323.php"
+    },
+    {
+      "name": "HGTV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-382.php"
+    },
+    {
+      "name": "HAPPY TV SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-846.php"
+    },
+    {
+      "name": "HOT3 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-553.php"
+    },
+    {
+      "name": "ITV 1 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-350.php"
+    },
+    {
+      "name": "ITV 2 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-351.php"
+    },
+    {
+      "name": "ITV 3 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-352.php"
+    },
+    {
+      "name": "ITV 4 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-353.php"
+    },
+    {
+      "name": "ITV QUIZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-876.php"
+    },
+    {
+      "name": "ITALIA 1 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-854.php"
+    },
+    {
+      "name": "INVESTIGATION DISCOVERY (ID USA)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-324.php"
+    },
+    {
+      "name": "ION USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-325.php"
+    },
+    {
+      "name": "IFC TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-656.php"
+    },
+    {
+      "name": "KANAL 4 DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-803.php"
+    },
+    {
+      "name": "KANAL 5 DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-804.php"
+    },
+    {
+      "name": "KABEL EINS (KABEL 1) DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-731.php"
+    },
+    {
+      "name": "KANAL D TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1001.php"
+    },
+    {
+      "name": "LALIGATV UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-276.php"
+    },
+    {
+      "name": "LAW &AMP; CRIME NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-278.php"
+    },
+    {
+      "name": "LALIGA SMARTBANK TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-539.php"
+    },
+    {
+      "name": "L&#039;EQUIPE FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-645.php"
+    },
+    {
+      "name": "LA SEXTA SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-534.php"
+    },
+    {
+      "name": "LIVERPOOL TV (LFC TV)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-826.php"
+    },
+    {
+      "name": "LOGO TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-849.php"
+    },
+    {
+      "name": "LAS ESTRELLAS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-924.php"
+    },
+    {
+      "name": "LCI FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-962.php"
+    },
+    {
+      "name": "LIFETIME NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-326.php"
+    },
+    {
+      "name": "LIFETIME MOVIES NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-389.php"
+    },
+    {
+      "name": "LA7 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-855.php"
+    },
+    {
+      "name": "LA7D HD+ ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-856.php"
+    },
+    {
+      "name": "MATCH FOOTBALL 1 RUSSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-136.php"
+    },
+    {
+      "name": "MATCH FOOTBALL 2 RUSSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-137.php"
+    },
+    {
+      "name": "MATCH FOOTBALL 3 RUSSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-138.php"
+    },
+    {
+      "name": "MATCH PREMIER RUSSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-573.php"
+    },
+    {
+      "name": "MATCH TV RUSSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-127.php"
+    },
+    {
+      "name": "МАТЧ! БОЕЦ RUSSIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-395.php"
+    },
+    {
+      "name": "MOVISTAR LALIGA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-84.php"
+    },
+    {
+      "name": "MOVISTAR LIGA DE CAMPEONES",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-435.php"
+    },
+    {
+      "name": "MOVISTAR DEPORTES SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-436.php"
+    },
+    {
+      "name": "MOVISTAR DEPORTES 2 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-438.php"
+    },
+    {
+      "name": "MOVISTAR DEPORTES 3 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-526.php"
+    },
+    {
+      "name": "MOVISTAR DEPORTES 4 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-527.php"
+    },
+    {
+      "name": "MOVISTAR GOLF SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-528.php"
+    },
+    {
+      "name": "MOTOWIZJA POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-563.php"
+    },
+    {
+      "name": "MSG USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-765.php"
+    },
+    {
+      "name": "MSNBC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-327.php"
+    },
+    {
+      "name": "MAGNOLIA NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-299.php"
+    },
+    {
+      "name": "M4 SPORTS HUNGARY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-265.php"
+    },
+    {
+      "name": "MOVISTAR SUPERCOPA DE ESPAÑA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-437.php"
+    },
+    {
+      "name": "MTV UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-367.php"
+    },
+    {
+      "name": "MTV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-371.php"
+    },
+    {
+      "name": "MUTV UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-377.php"
+    },
+    {
+      "name": "M6 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-470.php"
+    },
+    {
+      "name": "RACER TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-646.php"
+    },
+    {
+      "name": "MAX SPORT 1 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-779.php"
+    },
+    {
+      "name": "MAX SPORT 2 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-780.php"
+    },
+    {
+      "name": "MARQUEE SPORTS NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-770.php"
+    },
+    {
+      "name": "MAX SPORT 1 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-472.php"
+    },
+    {
+      "name": "MAX SPORT 2 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-473.php"
+    },
+    {
+      "name": "MAX SPORT 3 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-474.php"
+    },
+    {
+      "name": "MAX SPORT 4 BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-475.php"
+    },
+    {
+      "name": "MLB NETWORK USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-399.php"
+    },
+    {
+      "name": "MASN USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-829.php"
+    },
+    {
+      "name": "MY9TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-654.php"
+    },
+    {
+      "name": "DISCOVERY TURBO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-661.php"
+    },
+    {
+      "name": "METV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-662.php"
+    },
+    {
+      "name": "MDR DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-733.php"
+    },
+    {
+      "name": "MUNDOTORO TV SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-749.php"
+    },
+    {
+      "name": "MONUMENTAL SPORTS NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-778.php"
+    },
+    {
+      "name": "MTV DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-806.php"
+    },
+    {
+      "name": "MGM+ USA / EPIX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-791.php"
+    },
+    {
+      "name": "NBC10 PHILADELPHIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-277.php"
+    },
+    {
+      "name": "NHL NETWORK USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-663.php"
+    },
+    {
+      "name": "NFL REDZONE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-667.php"
+    },
+    {
+      "name": "NOVA SPORT BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-468.php"
+    },
+    {
+      "name": "NOVA SPORT SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-582.php"
+    },
+    {
+      "name": "NOVA SPORTS 1 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-631.php"
+    },
+    {
+      "name": "NOVA SPORTS 2 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-632.php"
+    },
+    {
+      "name": "NOVA SPORTS 3 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-633.php"
+    },
+    {
+      "name": "NOVA SPORTS 4 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-634.php"
+    },
+    {
+      "name": "NOVA SPORTS 5 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-635.php"
+    },
+    {
+      "name": "NOVA SPORTS 6 GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-636.php"
+    },
+    {
+      "name": "NOVA SPORTS PREMIER LEAGUE GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-599.php"
+    },
+    {
+      "name": "NOVA SPORTS START GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-637.php"
+    },
+    {
+      "name": "NOVA SPORTS PRIME GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-638.php"
+    },
+    {
+      "name": "NOVA SPORTS NEWS GREECE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-639.php"
+    },
+    {
+      "name": "NICK MUSIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-666.php"
+    },
+    {
+      "name": "NESN USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-762.php"
+    },
+    {
+      "name": "NBC USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-53.php"
+    },
+    {
+      "name": "NBA TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-404.php"
+    },
+    {
+      "name": "NBC SPORTS PHILADELPHIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-777.php"
+    },
+    {
+      "name": "NFL NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-405.php"
+    },
+    {
+      "name": "NBC SPORTS BAY AREA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-753.php"
+    },
+    {
+      "name": "NBC SPORTS BOSTON",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-754.php"
+    },
+    {
+      "name": "NBC SPORTS CALIFORNIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-755.php"
+    },
+    {
+      "name": "NBCNY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-769.php"
+    },
+    {
+      "name": "NOVA TV BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-480.php"
+    },
+    {
+      "name": "NOVA S SERBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-847.php"
+    },
+    {
+      "name": "NEWSNATION USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-292.php"
+    },
+    {
+      "name": "NATIONAL GEOGRAPHIC (NGC)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-328.php"
+    },
+    {
+      "name": "NICK JR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-329.php"
+    },
+    {
+      "name": "NICK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-330.php"
+    },
+    {
+      "name": "NICKTOONS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-649.php"
+    },
+    {
+      "name": "NDR DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-736.php"
+    },
+    {
+      "name": "NEWSMAX USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-613.php"
+    },
+    {
+      "name": "NAT GEO WILD USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-745.php"
+    },
+    {
+      "name": "NOOVO CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-835.php"
+    },
+    {
+      "name": "NBC UNIVERSO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-845.php"
+    },
+    {
+      "name": "NOW TV TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1003.php"
+    },
+    {
+      "name": "NOVA SPORT 1 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1021.php"
+    },
+    {
+      "name": "NOVA SPORT 2 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1022.php"
+    },
+    {
+      "name": "NOVA SPORT 3 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1023.php"
+    },
+    {
+      "name": "NOVA SPORT 4 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1024.php"
+    },
+    {
+      "name": "NOVA SPORT 5 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1025.php"
+    },
+    {
+      "name": "NOVA SPORT 6 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1026.php"
+    },
+    {
+      "name": "ONTIME SPORTS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-611.php"
+    },
+    {
+      "name": "ONE 1 HD ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-541.php"
+    },
+    {
+      "name": "ONE 2 HD ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-542.php"
+    },
+    {
+      "name": "ORANGE SPORT 1 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-439.php"
+    },
+    {
+      "name": "ORANGE SPORT 2 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-440.php"
+    },
+    {
+      "name": "ORANGE SPORT 3 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-441.php"
+    },
+    {
+      "name": "ORANGE SPORT 4 ROMANIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-442.php"
+    },
+    {
+      "name": "OPRAH WINFREY NETWORK (OWN)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-331.php"
+    },
+    {
+      "name": "OXYGEN TRUE CRIME",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-332.php"
+    },
+    {
+      "name": "OUTDOOR CHANNEL USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-848.php"
+    },
+    {
+      "name": "ONEPLAY SPORT 1 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1027.php"
+    },
+    {
+      "name": "ONEPLAY SPORT 2 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1028.php"
+    },
+    {
+      "name": "ONEPLAY SPORT 3 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1029.php"
+    },
+    {
+      "name": "POLSAT POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-562.php"
+    },
+    {
+      "name": "POLSAT SPORT POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-47.php"
+    },
+    {
+      "name": "POLSAT SPORT 2 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-50.php"
+    },
+    {
+      "name": "POLSAT SPORT 3 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-129.php"
+    },
+    {
+      "name": "POLSAT NEWS POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-443.php"
+    },
+    {
+      "name": "POLSAT FILM POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-564.php"
+    },
+    {
+      "name": "PORTO CANAL PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-718.php"
+    },
+    {
+      "name": "PROSIEBEN (PRO7) DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-730.php"
+    },
+    {
+      "name": "PREMIER SPORTS IRELAND 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-771.php"
+    },
+    {
+      "name": "PTV SPORTS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-450.php"
+    },
+    {
+      "name": "PDC TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-43.php"
+    },
+    {
+      "name": "PREMIER BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-88.php"
+    },
+    {
+      "name": "PRIMA SPORT 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-583.php"
+    },
+    {
+      "name": "PRIMA SPORT 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-584.php"
+    },
+    {
+      "name": "PRIMA SPORT 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-585.php"
+    },
+    {
+      "name": "PRIMA SPORT 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-586.php"
+    },
+    {
+      "name": "PARAMOUNT NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-334.php"
+    },
+    {
+      "name": "POP TV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-653.php"
+    },
+    {
+      "name": "PREMIER SPORTS IRELAND 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-799.php"
+    },
+    {
+      "name": "PRIMA TV RO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-843.php"
+    },
+    {
+      "name": "PREMIER SPORT 1 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1030.php"
+    },
+    {
+      "name": "PREMIER SPORT 2 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1031.php"
+    },
+    {
+      "name": "PREMIER SPORT 3 CZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1032.php"
+    },
+    {
+      "name": "PAC-12 NETWORK USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-287.php"
+    },
+    {
+      "name": "PBS USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-210.php"
+    },
+    {
+      "name": "REELZ CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-293.php"
+    },
+    {
+      "name": "RTE 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-364.php"
+    },
+    {
+      "name": "RTE 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-365.php"
+    },
+    {
+      "name": "RMC SPORT 1 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-119.php"
+    },
+    {
+      "name": "RMC SPORT 2 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-120.php"
+    },
+    {
+      "name": "RMC STORY FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-954.php"
+    },
+    {
+      "name": "RTP 1 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-719.php"
+    },
+    {
+      "name": "RTP 2 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-720.php"
+    },
+    {
+      "name": "RTP 3 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-721.php"
+    },
+    {
+      "name": "RAI 1 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-850.php"
+    },
+    {
+      "name": "RAI 2 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-851.php"
+    },
+    {
+      "name": "RAI 3 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-852.php"
+    },
+    {
+      "name": "RAI 4 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-853.php"
+    },
+    {
+      "name": "RAI SPORT ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-882.php"
+    },
+    {
+      "name": "RAI PREMIUM ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-858.php"
+    },
+    {
+      "name": "REAL MADRID TV SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-523.php"
+    },
+    {
+      "name": "RTL DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-740.php"
+    },
+    {
+      "name": "RDS CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-839.php"
+    },
+    {
+      "name": "RDS 2 CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-840.php"
+    },
+    {
+      "name": "RDS INFO CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-841.php"
+    },
+    {
+      "name": "RING BULGARIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-471.php"
+    },
+    {
+      "name": "RTL7 NETHERLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-390.php"
+    },
+    {
+      "name": "RACING TV UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-555.php"
+    },
+    {
+      "name": "RALLY TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-607.php"
+    },
+    {
+      "name": "ROOT SPORTS NORTHWEST",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-920.php"
+    },
+    {
+      "name": "SKY SPORTS FOOTBALL UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-35.php"
+    },
+    {
+      "name": "SKY SPORTS+ PLUS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-36.php"
+    },
+    {
+      "name": "SKY SPORTS ACTION UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-37.php"
+    },
+    {
+      "name": "SKY SPORTS MAIN EVENT",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-38.php"
+    },
+    {
+      "name": "SKY SPORTS TENNIS UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-46.php"
+    },
+    {
+      "name": "SKY SPORTS PREMIER LEAGUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-130.php"
+    },
+    {
+      "name": "SKY SPORTS F1 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-60.php"
+    },
+    {
+      "name": "SKY SPORTS CRICKET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-65.php"
+    },
+    {
+      "name": "SKY SPORTS GOLF UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-70.php"
+    },
+    {
+      "name": "SKY SPORTS 1 DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-240.php"
+    },
+    {
+      "name": "SKY SPORTS 2 DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-241.php"
+    },
+    {
+      "name": "SKY SPORTS GOLF ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-574.php"
+    },
+    {
+      "name": "SKY SPORT MOTOGP ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-575.php"
+    },
+    {
+      "name": "SKY SPORT TENNIS ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-576.php"
+    },
+    {
+      "name": "SKY SPORT F1 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-577.php"
+    },
+    {
+      "name": "SKY SPORTS NEWS UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-366.php"
+    },
+    {
+      "name": "SKY SPORTS MIX UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-449.php"
+    },
+    {
+      "name": "SKY SPORT TOP EVENT DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-556.php"
+    },
+    {
+      "name": "SKY SPORT MIX DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-557.php"
+    },
+    {
+      "name": "SKY SPORT BUNDESLIGA 1 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-558.php"
+    },
+    {
+      "name": "SKY SPORT AUSTRIA 1 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-559.php"
+    },
+    {
+      "name": "SPORTSNET NEW YORK (SNY)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-759.php"
+    },
+    {
+      "name": "SKY SPORT MAX ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-460.php"
+    },
+    {
+      "name": "SKY SPORT UNO ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-461.php"
+    },
+    {
+      "name": "SKY SPORT ARENA ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-462.php"
+    },
+    {
+      "name": "SKY SPORTS RACING UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-554.php"
+    },
+    {
+      "name": "SKY UNO ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-881.php"
+    },
+    {
+      "name": "SONY TEN 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-885.php"
+    },
+    {
+      "name": "SONY TEN 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-886.php"
+    },
+    {
+      "name": "SONY TEN 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-887.php"
+    },
+    {
+      "name": "SKY SPORT BUNDESLIGA 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-946.php"
+    },
+    {
+      "name": "SKY SPORT BUNDESLIGA 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-947.php"
+    },
+    {
+      "name": "SKY SPORT BUNDESLIGA 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-948.php"
+    },
+    {
+      "name": "SKY SPORT BUNDESLIGA 5",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-949.php"
+    },
+    {
+      "name": "SPORT EN FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-965.php"
+    },
+    {
+      "name": "STARZ CINEMA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-970.php"
+    },
+    {
+      "name": "STARZ COMEDY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-971.php"
+    },
+    {
+      "name": "STARZ EDGE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-972.php"
+    },
+    {
+      "name": "STARZ IN BLACK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-973.php"
+    },
+    {
+      "name": "STARZ KIDS &AMP; FAMILY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-974.php"
+    },
+    {
+      "name": "STARZ ENCORE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-975.php"
+    },
+    {
+      "name": "STARZ ENCORE ACTION",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-976.php"
+    },
+    {
+      "name": "STARZ ENCORE BLACK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-977.php"
+    },
+    {
+      "name": "STARZ ENCORE CLASSIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-978.php"
+    },
+    {
+      "name": "STARZ ENCORE FAMILY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-979.php"
+    },
+    {
+      "name": "STARZ ENCORE SUSPENSE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-980.php"
+    },
+    {
+      "name": "STARZ ENCORE WESTERNS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-981.php"
+    },
+    {
+      "name": "SPECTRUM SPORTSNET USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-982.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 1 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-983.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 2 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-984.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 3 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-985.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 4 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-986.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 5 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-987.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 6 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-988.php"
+    },
+    {
+      "name": "CANAL+ EXTRA 7 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-989.php"
+    },
+    {
+      "name": "MTV POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-990.php"
+    },
+    {
+      "name": "POLSAT SPORT PREMIUM 1 SUPER HD PL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-991.php"
+    },
+    {
+      "name": "POLSAT SPORT PREMIUM 2 SUPER HD PL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-992.php"
+    },
+    {
+      "name": "POLSAT SPORT EXTRA 1 HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-993.php"
+    },
+    {
+      "name": "POLSAT SPORT EXTRA 2 HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-994.php"
+    },
+    {
+      "name": "POLSAT SPORT EXTRA 3 HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-995.php"
+    },
+    {
+      "name": "POLSAT SPORT EXTRA 4 HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-996.php"
+    },
+    {
+      "name": "POLSAT SPORT FIGHT HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-997.php"
+    },
+    {
+      "name": "POLSAT SPORT NEWS HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-998.php"
+    },
+    {
+      "name": "ELEVEN SPORTS 4 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-999.php"
+    },
+    {
+      "name": "SKY SPORT 1 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-588.php"
+    },
+    {
+      "name": "SKY SPORT 2 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-589.php"
+    },
+    {
+      "name": "SKY SPORT 3 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-590.php"
+    },
+    {
+      "name": "SKY SPORT 4 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-591.php"
+    },
+    {
+      "name": "SKY SPORT 5 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-592.php"
+    },
+    {
+      "name": "SKY SPORT 6 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-593.php"
+    },
+    {
+      "name": "SKY SPORT 7 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-594.php"
+    },
+    {
+      "name": "SKY SPORT 8 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-595.php"
+    },
+    {
+      "name": "SKY SPORT 9 NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-596.php"
+    },
+    {
+      "name": "SKY SPORT SELECT NZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-587.php"
+    },
+    {
+      "name": "SPORT TV1 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-49.php"
+    },
+    {
+      "name": "SPORT TV2 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-74.php"
+    },
+    {
+      "name": "SPORT TV4 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-289.php"
+    },
+    {
+      "name": "SPORT TV3 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-454.php"
+    },
+    {
+      "name": "SPORT TV5 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-290.php"
+    },
+    {
+      "name": "SPORT TV6 PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-291.php"
+    },
+    {
+      "name": "SIC PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-722.php"
+    },
+    {
+      "name": "SEC NETWORK USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-385.php"
+    },
+    {
+      "name": "SPORTV BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-78.php"
+    },
+    {
+      "name": "SPORTV2 BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-79.php"
+    },
+    {
+      "name": "SPORTV3 BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-80.php"
+    },
+    {
+      "name": "SPORT KLUB 1 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-101.php"
+    },
+    {
+      "name": "SPORT KLUB 2 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-102.php"
+    },
+    {
+      "name": "SPORT KLUB 3 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-103.php"
+    },
+    {
+      "name": "SPORT KLUB 4 CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-104.php"
+    },
+    {
+      "name": "SPORT KLUB HD CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-453.php"
+    },
+    {
+      "name": "SPORTSNET ONTARIO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-406.php"
+    },
+    {
+      "name": "SPORTSNET ONE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-411.php"
+    },
+    {
+      "name": "SPORTSNET WEST",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-407.php"
+    },
+    {
+      "name": "SPORTSNET EAST",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-408.php"
+    },
+    {
+      "name": "SPORTSNET 360",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-409.php"
+    },
+    {
+      "name": "SPORTSNET WORLD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-410.php"
+    },
+    {
+      "name": "SUPERSPORT GRANDSTAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-412.php"
+    },
+    {
+      "name": "SUPERSPORT PSL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-413.php"
+    },
+    {
+      "name": "SUPERSPORT PREMIER LEAGUE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-414.php"
+    },
+    {
+      "name": "SUPERSPORT LALIGA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-415.php"
+    },
+    {
+      "name": "SUPERSPORT VARIETY 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-416.php"
+    },
+    {
+      "name": "SUPERSPORT VARIETY 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-417.php"
+    },
+    {
+      "name": "SUPERSPORT VARIETY 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-418.php"
+    },
+    {
+      "name": "SUPERSPORT VARIETY 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-419.php"
+    },
+    {
+      "name": "SUPERSPORT ACTION",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-420.php"
+    },
+    {
+      "name": "SUPERSPORT RUGBY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-421.php"
+    },
+    {
+      "name": "SUPERSPORT GOLF",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-422.php"
+    },
+    {
+      "name": "SUPERSPORT TENNIS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-423.php"
+    },
+    {
+      "name": "SUPERSPORT MOTORSPORT",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-424.php"
+    },
+    {
+      "name": "SUPERSPORT FOOTBALL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-56.php"
+    },
+    {
+      "name": "SUPERSPORT CRICKET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-368.php"
+    },
+    {
+      "name": "SUPERSPORT MAXIMO 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-572.php"
+    },
+    {
+      "name": "SPORTING TV PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-716.php"
+    },
+    {
+      "name": "SPORTDIGITAL FUSSBALL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-571.php"
+    },
+    {
+      "name": "SPECTRUM SPORTSNET LA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-764.php"
+    },
+    {
+      "name": "SPORTDIGITAL1+ GERMANY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-640.php"
+    },
+    {
+      "name": "SPORT1 GERMANY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-641.php"
+    },
+    {
+      "name": "S4C UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-670.php"
+    },
+    {
+      "name": "SPORT KLUB GOLF CROATIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-710.php"
+    },
+    {
+      "name": "SAT.1 DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-729.php"
+    },
+    {
+      "name": "SKY CINEMA PREMIERE UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-671.php"
+    },
+    {
+      "name": "SKY CINEMA SELECT UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-672.php"
+    },
+    {
+      "name": "SKY CINEMA HITS UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-673.php"
+    },
+    {
+      "name": "SKY CINEMA GREATS UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-674.php"
+    },
+    {
+      "name": "SKY CINEMA ANIMATION UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-675.php"
+    },
+    {
+      "name": "SKY CINEMA FAMILY UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-676.php"
+    },
+    {
+      "name": "SKY CINEMA ACTION UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-677.php"
+    },
+    {
+      "name": "SKY CINEMA COMEDY UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-678.php"
+    },
+    {
+      "name": "SKY CINEMA THRILLER UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-679.php"
+    },
+    {
+      "name": "SKY CINEMA DRAMA UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-680.php"
+    },
+    {
+      "name": "SKY CINEMA SCI-FI HORROR UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-681.php"
+    },
+    {
+      "name": "SHOWTIME SHOXBET USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-695.php"
+    },
+    {
+      "name": "SEE DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-811.php"
+    },
+    {
+      "name": "SKY CINEMA COLLECTION ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-859.php"
+    },
+    {
+      "name": "SKY CINEMA UNO ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-860.php"
+    },
+    {
+      "name": "SKY CINEMA ACTION ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-861.php"
+    },
+    {
+      "name": "SKY CINEMA COMEDY ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-862.php"
+    },
+    {
+      "name": "SKY CINEMA UNO +24 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-863.php"
+    },
+    {
+      "name": "SKY CINEMA ROMANCE ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-864.php"
+    },
+    {
+      "name": "SKY CINEMA FAMILY ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-865.php"
+    },
+    {
+      "name": "CW PHILLY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-866.php"
+    },
+    {
+      "name": "SKY CINEMA DRAMA ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-867.php"
+    },
+    {
+      "name": "8SKY CINEMA SUSPENSE ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-868.php"
+    },
+    {
+      "name": "SKY SPORT 24 ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-869.php"
+    },
+    {
+      "name": "SKY SPORT CALCIO ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-870.php"
+    },
+    {
+      "name": "SKY CALCIO 1 (251) ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-871.php"
+    },
+    {
+      "name": "SKY CALCIO 2 (252) ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-872.php"
+    },
+    {
+      "name": "SKY CALCIO 3 (253) ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-873.php"
+    },
+    {
+      "name": "SKY CALCIO 4 (254) ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-874.php"
+    },
+    {
+      "name": "SKY SPORT BASKET ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-875.php"
+    },
+    {
+      "name": "SKY SERIE ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-880.php"
+    },
+    {
+      "name": "STARZPLAY CRICLIFE 1 HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-284.php"
+    },
+    {
+      "name": "SKY SHOWCASE UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-682.php"
+    },
+    {
+      "name": "SKY ARTS UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-683.php"
+    },
+    {
+      "name": "SKY COMEDY UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-684.php"
+    },
+    {
+      "name": "SKY CRIME",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-685.php"
+    },
+    {
+      "name": "SKY HISTORY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-686.php"
+    },
+    {
+      "name": "SKY MAX UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-708.php"
+    },
+    {
+      "name": "SSC SPORT 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-614.php"
+    },
+    {
+      "name": "SSC SPORT 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-615.php"
+    },
+    {
+      "name": "SSC SPORT 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-616.php"
+    },
+    {
+      "name": "SSC SPORT 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-617.php"
+    },
+    {
+      "name": "SSC SPORT 5",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-618.php"
+    },
+    {
+      "name": "SSC SPORT EXTRA 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-619.php"
+    },
+    {
+      "name": "SSC SPORT EXTRA 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-620.php"
+    },
+    {
+      "name": "SSC SPORT EXTRA 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-621.php"
+    },
+    {
+      "name": "SPORT 1 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-140.php"
+    },
+    {
+      "name": "SPORT 2 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-141.php"
+    },
+    {
+      "name": "SPORT 3 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-142.php"
+    },
+    {
+      "name": "SPORT 4 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-143.php"
+    },
+    {
+      "name": "SPORT 5 ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-144.php"
+    },
+    {
+      "name": "SPORT 5 PLUS ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-145.php"
+    },
+    {
+      "name": "SPORT 5 LIVE ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-146.php"
+    },
+    {
+      "name": "SPORT 5 STAR ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-147.php"
+    },
+    {
+      "name": "SPORT 5 GOLD ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-148.php"
+    },
+    {
+      "name": "SCIENCE CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-294.php"
+    },
+    {
+      "name": "SHOWTIME USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-333.php"
+    },
+    {
+      "name": "STARZ",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-335.php"
+    },
+    {
+      "name": "SKY WITNESS HD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-361.php"
+    },
+    {
+      "name": "SIXX DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-732.php"
+    },
+    {
+      "name": "SKY ATLANTIC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-362.php"
+    },
+    {
+      "name": "SYFY USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-373.php"
+    },
+    {
+      "name": "SUNDANCE TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-658.php"
+    },
+    {
+      "name": "SWR DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-735.php"
+    },
+    {
+      "name": "SUPER RTL DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-738.php"
+    },
+    {
+      "name": "SR FERNSEHEN DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-739.php"
+    },
+    {
+      "name": "SKY SPORTS GOLF DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-785.php"
+    },
+    {
+      "name": "SMITHSONIAN CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-603.php"
+    },
+    {
+      "name": "SKY SPORTS F1 DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-274.php"
+    },
+    {
+      "name": "SKY SPORTS TENNIS DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-884.php"
+    },
+    {
+      "name": "SBS6 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-883.php"
+    },
+    {
+      "name": "SEE DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-811.php"
+    },
+    {
+      "name": "STAR SPORTS 1 IN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-267.php"
+    },
+    {
+      "name": "STAR SPORTS HINDI IN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-268.php"
+    },
+    {
+      "name": "SHOWTIME 2 USA (SHO2) USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-792.php"
+    },
+    {
+      "name": "SHOWTIME SHOWCASE USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-793.php"
+    },
+    {
+      "name": "SHOWTIME EXTREME USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-794.php"
+    },
+    {
+      "name": "SHOWTIME FAMILY ZONE (SHO FAMILY ZONE) USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-795.php"
+    },
+    {
+      "name": "SHOWTIME NEXT (SHO NEXT) USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-796.php"
+    },
+    {
+      "name": "SHOWTIME WOMEN USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-797.php"
+    },
+    {
+      "name": "SPACE CITY HOME NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-921.php"
+    },
+    {
+      "name": "SPORTSNET PITTSBURGH",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-922.php"
+    },
+    {
+      "name": "SHOW TV TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1002.php"
+    },
+    {
+      "name": "STAR TV TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1004.php"
+    },
+    {
+      "name": "TNT SPORTS 1 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-31.php"
+    },
+    {
+      "name": "TNT SPORTS 2 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-32.php"
+    },
+    {
+      "name": "TNT SPORTS 3 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-33.php"
+    },
+    {
+      "name": "TNT SPORTS 4 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-34.php"
+    },
+    {
+      "name": "TSN1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-111.php"
+    },
+    {
+      "name": "TSN2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-112.php"
+    },
+    {
+      "name": "TSN3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-113.php"
+    },
+    {
+      "name": "TSN4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-114.php"
+    },
+    {
+      "name": "TSN5",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-115.php"
+    },
+    {
+      "name": "TVN HD POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-565.php"
+    },
+    {
+      "name": "TVN24 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-444.php"
+    },
+    {
+      "name": "TVP1 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-560.php"
+    },
+    {
+      "name": "TVP2 POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-561.php"
+    },
+    {
+      "name": "TELECINCO SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-532.php"
+    },
+    {
+      "name": "TVE LA 1 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-533.php"
+    },
+    {
+      "name": "TVE LA 2 SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-536.php"
+    },
+    {
+      "name": "TVI PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-723.php"
+    },
+    {
+      "name": "TVI REALITY PORTUGAL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-724.php"
+    },
+    {
+      "name": "TELEDEPORTE SPAIN (TDP)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-529.php"
+    },
+    {
+      "name": "TYC SPORTS ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-746.php"
+    },
+    {
+      "name": "TVP SPORT POLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-128.php"
+    },
+    {
+      "name": "TNT BRASIL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-87.php"
+    },
+    {
+      "name": "TNT SPORTS ARGENTINA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-388.php"
+    },
+    {
+      "name": "TNT SPORTS HD CHILE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-642.php"
+    },
+    {
+      "name": "TENNIS CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-40.php"
+    },
+    {
+      "name": "TEN SPORTS PK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-741.php"
+    },
+    {
+      "name": "TUDN USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-66.php"
+    },
+    {
+      "name": "TELEMUNDO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-131.php"
+    },
+    {
+      "name": "TBS USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-336.php"
+    },
+    {
+      "name": "TLC",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-337.php"
+    },
+    {
+      "name": "TNT USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-338.php"
+    },
+    {
+      "name": "TF1 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-469.php"
+    },
+    {
+      "name": "TVA SPORTS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-833.php"
+    },
+    {
+      "name": "TVA SPORTS 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-834.php"
+    },
+    {
+      "name": "TVC DEPORTES MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-932.php"
+    },
+    {
+      "name": "TUDN MX",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-935.php"
+    },
+    {
+      "name": "TMC FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-955.php"
+    },
+    {
+      "name": "TRAVEL CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-340.php"
+    },
+    {
+      "name": "TRUTV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-341.php"
+    },
+    {
+      "name": "TVLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-342.php"
+    },
+    {
+      "name": "TCM USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-644.php"
+    },
+    {
+      "name": "TMC CHANNEL USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-698.php"
+    },
+    {
+      "name": "THE FOOD NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-384.php"
+    },
+    {
+      "name": "THE WEATHER CHANNEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-394.php"
+    },
+    {
+      "name": "TVP INFO",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-452.php"
+    },
+    {
+      "name": "TEENNICK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-650.php"
+    },
+    {
+      "name": "TV ONE USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-660.php"
+    },
+    {
+      "name": "TV2 BORNHOLM DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-807.php"
+    },
+    {
+      "name": "TV2 SPORT X DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-808.php"
+    },
+    {
+      "name": "TV3 SPORT DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-809.php"
+    },
+    {
+      "name": "TV2 SPORT DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-810.php"
+    },
+    {
+      "name": "TV2 DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-817.php"
+    },
+    {
+      "name": "TV2 ZULU",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-818.php"
+    },
+    {
+      "name": "TV3+ DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-819.php"
+    },
+    {
+      "name": "TVO CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-842.php"
+    },
+    {
+      "name": "TV8 TURKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-1005.php"
+    },
+    {
+      "name": "TV4 HOCKEY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-700.php"
+    },
+    {
+      "name": "TV3 MAX DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-223.php"
+    },
+    {
+      "name": "T SPORTS BD",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-270.php"
+    },
+    {
+      "name": "TV4 TENNIS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-701.php"
+    },
+    {
+      "name": "TV4 MOTOR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-702.php"
+    },
+    {
+      "name": "TV4 SPORT LIVE 1",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-703.php"
+    },
+    {
+      "name": "TV4 SPORT LIVE 2",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-704.php"
+    },
+    {
+      "name": "TV4 SPORT LIVE 3",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-705.php"
+    },
+    {
+      "name": "TV4 SPORT LIVE 4",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-706.php"
+    },
+    {
+      "name": "TV4 SPORTKANALEN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-707.php"
+    },
+    {
+      "name": "TV4 FOOTBALL SWEDEN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-747.php"
+    },
+    {
+      "name": "TENNIS+ 10",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-709.php"
+    },
+    {
+      "name": "TENNIS+ 12",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-711.php"
+    },
+    {
+      "name": "TRT SPOR TR",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-889.php"
+    },
+    {
+      "name": "USA NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-343.php"
+    },
+    {
+      "name": "UNIVERSAL KIDS USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-668.php"
+    },
+    {
+      "name": "UNIVISION",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-132.php"
+    },
+    {
+      "name": "UNIMAS",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-133.php"
+    },
+    {
+      "name": "VIAPLAY SPORTS 1 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-451.php"
+    },
+    {
+      "name": "VIAPLAY SPORTS 2 UK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-550.php"
+    },
+    {
+      "name": "#VAMOS SPAIN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-521.php"
+    },
+    {
+      "name": "V FILM PREMIERE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-815.php"
+    },
+    {
+      "name": "V FILM FAMILY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-816.php"
+    },
+    {
+      "name": "VODAFONE SPORT",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-260.php"
+    },
+    {
+      "name": "V SPORT MOTOR SWEDEN",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-272.php"
+    },
+    {
+      "name": "VH1 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-344.php"
+    },
+    {
+      "name": "VERONICA NL NETHERLAND",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-378.php"
+    },
+    {
+      "name": "VTV+ URUGUAY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-391.php"
+    },
+    {
+      "name": "VICE TV",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-659.php"
+    },
+    {
+      "name": "WILLOW CRICKET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-346.php"
+    },
+    {
+      "name": "WILLOW 2 CRICKET",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-598.php"
+    },
+    {
+      "name": "WWE NETWORK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-376.php"
+    },
+    {
+      "name": "WIN SPORTS+ COLUMBIA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-392.php"
+    },
+    {
+      "name": "WETV USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-655.php"
+    },
+    {
+      "name": "WDR DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-734.php"
+    },
+    {
+      "name": "W9 FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-959.php"
+    },
+    {
+      "name": "YTV CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-286.php"
+    },
+    {
+      "name": "YES NETWORK USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-763.php"
+    },
+    {
+      "name": "YES MOVIES ACTION ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-543.php"
+    },
+    {
+      "name": "YES MOVIES KIDS ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-544.php"
+    },
+    {
+      "name": "YES MOVIES COMEDY ISRAEL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-545.php"
+    },
+    {
+      "name": "YES TV CA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-837.php"
+    },
+    {
+      "name": "ZIGGO SPORT NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-393.php"
+    },
+    {
+      "name": "ZIGGO SPORT 2 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-398.php"
+    },
+    {
+      "name": "ZIGGO SPORT 3 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-919.php"
+    },
+    {
+      "name": "ZIGGO SPORT 4 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-396.php"
+    },
+    {
+      "name": "ZIGGO SPORT 5 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-383.php"
+    },
+    {
+      "name": "ZIGGO SPORT 6 NL",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-901.php"
+    },
+    {
+      "name": "ZDF DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-727.php"
+    },
+    {
+      "name": "ZDF INFO DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-728.php"
+    },
+    {
+      "name": "6TER FRANCE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-963.php"
+    },
+    {
+      "name": "20 MEDIASET ITALY",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-857.php"
+    },
+    {
+      "name": "6&#039;EREN DENMARK",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-800.php"
+    },
+    {
+      "name": "5 USA",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-360.php"
+    },
+    {
+      "name": "3SAT DE",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-726.php"
+    },
+    {
+      "name": "18+ (PLAYER-01)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-501.php"
+    },
+    {
+      "name": "18+ (PLAYER-02)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-502.php"
+    },
+    {
+      "name": "18+ (PLAYER-03)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-503.php"
+    },
+    {
+      "name": "18+ (PLAYER-04)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-504.php"
+    },
+    {
+      "name": "18+ (PLAYER-05)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-505.php"
+    },
+    {
+      "name": "18+ (PLAYER-06)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-506.php"
+    },
+    {
+      "name": "18+ (PLAYER-07)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-507.php"
+    },
+    {
+      "name": "18+ (PLAYER-08)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-508.php"
+    },
+    {
+      "name": "18+ (PLAYER-09)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-509.php"
+    },
+    {
+      "name": "18+ (PLAYER-10)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-510.php"
+    },
+    {
+      "name": "18+ (PLAYER-11)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-511.php"
+    },
+    {
+      "name": "18+ (PLAYER-12)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-512.php"
+    },
+    {
+      "name": "18+ (PLAYER-13)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-513.php"
+    },
+    {
+      "name": "18+ (PLAYER-14)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-514.php"
+    },
+    {
+      "name": "18+ (PLAYER-15)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-515.php"
+    },
+    {
+      "name": "18+ (PLAYER-16)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-516.php"
+    },
+    {
+      "name": "18+ (PLAYER-17)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-517.php"
+    },
+    {
+      "name": "18+ (PLAYER-18)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-518.php"
+    },
+    {
+      "name": "18+ (PLAYER-19)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-519.php"
+    },
+    {
+      "name": "18+ (PLAYER-20)",
+      "category": "Live TV",
+      "source": "https://daddylive.stream/embed/stream-520.php"
+    }
+  ]
+}
